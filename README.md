@@ -23,7 +23,7 @@ Requires Node.js 20.9 or newer.
 
 ```bash
 git clone https://github.com/modesage/aquasense-mini-build-task.git
-cd aquasense-mini-build
+cd aquasense-mini-build-task
 npm install
 npm run dev      # http://localhost:3000
 npm test         # unit tests
