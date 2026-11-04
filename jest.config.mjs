@@ -4,5 +4,8 @@ const createJestConfig = nextJest({ dir: "./" });
 
 export default createJestConfig({
   testEnvironment: "node",
-  testMatch: ["<rootDir>/tests/**/*.test.ts"],
+  testMatch: [
+    "<rootDir>/tests/**/*.test.ts",
+    "<rootDir>/api-tests/**/*.test.ts",
+  ],
 });
