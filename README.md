@@ -2,7 +2,7 @@
 
 Tank level dashboard (Part A) and device API test suite (Part B) for the Nivoryx Systems assignment.
 
-**Live demo:** 
+**Live demo:** https://aquasense-mini-build.vercel.app/
 
 ## Part A: Tank Level Dashboard
 
